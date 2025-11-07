@@ -1,1 +1,1 @@
-# Sample Git Action practice for beginners
+# Sample GitHub Action practice for beginners
